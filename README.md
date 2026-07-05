@@ -7,7 +7,7 @@ This project is an ongoing mechanical design project for a 6-axis robotic arm in
 The arm is being designed in Fusion 360 with 3D printing in mind and uses a cycloidal gear reducer to reduce backlash in the joint mechanism.
 
 <p align="center">
-  <img src="assets/concept_motion.gif" width="500">
+  <img src="assets/concept_motion.gif" width="300">
 </p>
 
 <p align="center">
@@ -64,6 +64,15 @@ The cycloidal gear reducer is integrated into the robot arm joint assembly with 
 <p align="center">
   <b>Reducer-integrated joint assembly</b>
 </p>
+
+| No. | Component | No. | Component |
+|---|---|---|---|
+| 1 |  | 7 |  |
+| 2 |  | 8 |  |
+| 3 |  | 9 |  |
+| 4 |  | 10 |  |
+| 5 |  | 11 |  |
+| 6 |  | 12 |  |
 
 This assembly was designed to check the basic arrangement of the joint components and the assembly direction of the reducer-integrated structure.
 
