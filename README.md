@@ -83,11 +83,7 @@ Future work includes:
 Initial hand sketches were used to plan the joint layout, gear placement, housing shape, and assembly direction.
 
 <p align="center">
-  <img src="assets/concept_sketch_01.png" width="200">
-</p>
-
-<p align="center">
-  <img src="assets/concept_sketch_02.png" width="200">
+  <img src="assets/concept_sketch_01.png" width="500">
 </p>
 
 <p align="center">
