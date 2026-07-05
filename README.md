@@ -65,15 +65,6 @@ The cycloidal gear reducer is integrated into the robot arm joint assembly with 
   <b>Reducer-integrated joint assembly</b>
 </p>
 
-| No. | Component | No. | Component |
-|---|---|---|---|
-| 1 |  | 7 |  |
-| 2 |  | 8 |  |
-| 3 |  | 9 |  |
-| 4 |  | 10 |  |
-| 5 |  | 11 |  |
-| 6 |  | 12 |  |
-
 This assembly was designed to check the basic arrangement of the joint components and the assembly direction of the reducer-integrated structure.
 
 ---
