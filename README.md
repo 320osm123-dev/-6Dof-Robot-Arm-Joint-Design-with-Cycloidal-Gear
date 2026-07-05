@@ -30,7 +30,7 @@ The final goal is to integrate the robotic arm with a camera-based motion contro
 The cycloidal gear reducer is used as the main reduction mechanism inside the robot arm joint module.
 
 <p align="center">
-  <img src="assets/cycloidal_gear_design.png" width="520">
+  <img src="assets/cycloidal_gear_design.png" width=300">
 </p>
 
 <p align="center">
@@ -91,11 +91,11 @@ Future work includes:
 Initial hand sketches were used to plan the joint layout, gear placement, housing shape, and assembly direction.
 
 <p align="center">
-  <img src="assets/concept_sketch_01.png" width="520">
+  <img src="assets/concept_sketch_01.png" width="200">
 </p>
 
 <p align="center">
-  <img src="assets/concept_sketch_02.png" width="520">
+  <img src="assets/concept_sketch_02.png" width="200">
 </p>
 
 <p align="center">
