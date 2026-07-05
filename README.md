@@ -4,7 +4,7 @@ A 3D-printable 6-axis robot arm design for avatar robot applications
 ## Overview
 
 This project is an ongoing mechanical design project for a 6-axis robotic arm intended for future use in an avatar robot system.  
-The arm is designed with 3D printing in mind and uses a cycloidal gear reducer to reduce backlash in the joint mechanism.
+The arm is being designed in Fusion 360 with 3D printing in mind and uses a cycloidal gear reducer to reduce backlash in the joint mechanism.
 
 <p align="center">
   <img src="assets/concept_motion.gif" width="300">
@@ -30,11 +30,11 @@ The final goal is to integrate the robotic arm with a camera-based motion contro
 The cycloidal gear reducer is used as the main reduction mechanism inside the robot arm joint module.
 
 <p align="center">
-  <img src="assets/cycloidal_gear_design.png" width=300">
+  <img src="assets/cycloidal_gear_design.png" width="300">
 </p>
 
 <p align="center">
-  <b>Cycloidal gear reducer design</b>
+  <b>Cycloidal gear reducer design in Fusion 360</b>
 </p>
 
 ### Purpose
@@ -44,15 +44,7 @@ The cycloidal gear reducer is used as the main reduction mechanism inside the ro
 - Improve motion transmission accuracy
 - Enable 3D-printable reducer-based joint design
 
-### Basic Specification
-
-| Item | Specification |
-|---|---|
-| Reducer type | Cycloidal gear reducer |
-| Application | Robot arm joint module |
-| Manufacturing method | 3D printing |
-| Design focus | Low backlash, compact structure, joint integration |
-| Current status | Gear profile and joint layout under development |
+The cycloidal gear and joint layout are currently being designed and refined in Fusion 360.
 
 ---
 
