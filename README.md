@@ -7,7 +7,7 @@ This project is an ongoing mechanical design project for a 6-axis robotic arm in
 The arm is designed with 3D printing in mind and uses a cycloidal gear reducer to reduce backlash in the joint mechanism.
 
 <p align="center">
-  <img src="assets/concept_motion.gif" width="200">
+  <img src="assets/concept_motion.gif" width="300">
 </p>
 
 <p align="center">
